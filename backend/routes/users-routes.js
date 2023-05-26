@@ -19,6 +19,6 @@ router.post(
   usersControllers.signup //this is a callback function to check for validation 
 );
 
-// router.post("/login", usersControllers.login);
+router.post("/login", usersControllers.login);
 
 module.exports = router;

@@ -20,7 +20,7 @@ const Home = () => {
             className="bg-white h-10 px-5 pr-12 rounded-full text-sm shadow-lg shadow-slate-900 appearance-none"
           />
           <button
-            onClick=''
+            // onClick=''
             className="font-bold py-2 rounded flex items-center absolute translate-x-24 hover:scale-200"
           >
             <svg
